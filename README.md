@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EternalStorm4444
-- 👀 I’m interested in data science and machine learning!
-- 🌱 I’m currently learning data analytics with R
+- 👀 I’m interested in python, data science and machine learning!
+- 🌱 I’m currently learning selenium
 - 💞️ I’m looking to collaborate on something fun
 - 📫 How to reach me kiersten@campbell.club
 
